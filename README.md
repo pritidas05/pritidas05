@@ -48,8 +48,6 @@ I enjoy working at the intersection of **research and real-world implementation*
 - GPU Utilization
 - API Development & Postman Testing
 
----
-
 ## Current Focus
 - Advanced LLM workflows
 - Scalable RAG systems
